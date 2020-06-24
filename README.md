@@ -1,5 +1,5 @@
 # Musico
-## Search the world of music
+
 ### What is it about?
 Musico is a school team project as web application for searching songs and albums. You can add listen to your favorite music, preview albums and create your own playlist.
 
